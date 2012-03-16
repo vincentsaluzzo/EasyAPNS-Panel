@@ -45,4 +45,6 @@ Be sure that the Application name given correspond to the application name regis
 EasyAPNS-Panel is developped by [Vincent Saluzzo](http://www.vincentsaluzzo.com).
 
 [EasyAPNS](https://github.com/manifestinteractive/easyapns) are developed by Manifest Interactive, LLC
+
+Built-on [Bootstrap by Twitter](http://twitter.github.com/bootstrap/)
 	
